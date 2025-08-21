@@ -1,0 +1,6 @@
+ Name         Version  License                                                                    URL                                          
+ Nuitka       2.7.12   Apache Software License                                                    https://nuitka.net                           
+ ordered-set  4.1.0    MIT License                                                                UNKNOWN                                      
+ readchar     4.2.1    MIT License                                                                https://pypi.org/project/readchar            
+ wxPython     4.2.3    wxWindows Library License (https://opensource.org/licenses/wxwindows.php)  https://wxPython.org/                        
+ zstandard    0.24.0   BSD License                                                                https://github.com/indygreg/python-zstandard 

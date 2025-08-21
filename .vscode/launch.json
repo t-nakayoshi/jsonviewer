@@ -1,0 +1,28 @@
+{
+    // IntelliSense を使用して利用可能な属性を学べます。
+    // 既存の属性の説明をホバーして表示します。
+    // 詳細情報は次を確認してください: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: 現在のファイル",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${file}",
+            "console": "internalConsole",
+            "justMyCode": true,
+            "args": [
+                "C:\\Users\\s9888\\Documents\\Reposwc\\tools\\ContextMenuForWindows11\\menuSample\\Compress By 7z.json"
+            ]
+        },
+        {
+            "name": "[Debug] JsonViewerGUI",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "JsonViewerGUI.py",
+            "console": "internalConsole",
+            "justMyCode": true,
+            "args": ["--debug"]
+        }
+    ]
+}

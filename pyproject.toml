@@ -1,0 +1,22 @@
+[project]
+name = "jsonviewer"
+version = "1.2.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "nuitka==2.7.12",
+    "ordered-set==4.1.0",
+    "pip-licenses==5.0.0",
+    "prettytable==3.16.0",
+    "readchar==4.2.1",
+    "tomli==2.2.1",
+    "wcwidth==0.2.13",
+    "wxpython==4.2.3",
+    "zstandard==0.24.0",
+]
+
+[dependency-groups]
+dev = [
+    "pip>=25.2",
+]
