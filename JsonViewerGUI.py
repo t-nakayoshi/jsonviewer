@@ -17,7 +17,7 @@ import wx
 from wx.adv import AboutBox, AboutDialogInfo, Sound
 
 import jsonviewer as jv
-from jsonviewer_gui import MainFrame, MenuID
+from MainFrame import MainFrame, MenuID
 from myutils.util import platform_info
 from res import app_icon, sound
 
